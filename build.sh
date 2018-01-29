@@ -37,8 +37,7 @@ rm get-pip.py
 
 # Remove all the cruft
 cd /
-rm -rf /tmp/usession-default-current/build
-rm -rf prebuilt
+rm -rf /tmp/usession-*
 rm -rf pypy
 
 # Uninstall build deps
