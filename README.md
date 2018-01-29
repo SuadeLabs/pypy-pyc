@@ -1,0 +1,1 @@
+Ever wanted to distribute a collection of .pyc files and have them run under pypy? Well, this container lets you do just that. Featuring a copy of pypy compiled with the stand-alone pyc flags enabled, it serves as a drop-in replacement for the official [pypy](https://hub.docker.com/_/pypy/) container.
